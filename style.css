@@ -1,0 +1,26 @@
+.brick{
+    background-color: blue;
+
+}
+.row div{
+    width: 20px;
+    height: 20px;
+    
+    display: inline-block;
+}
+div .coin{
+    background: url('img/coin_by_knux400-daonr3k.gif');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+
+}
+body{
+    background-color: black;
+}
+div .pacman{
+    background: url('img/ClutteredGreatIndianpalmsquirrel-max-1mb.gif');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
